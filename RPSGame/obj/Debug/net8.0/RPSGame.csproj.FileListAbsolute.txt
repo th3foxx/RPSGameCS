@@ -1,0 +1,14 @@
+C:\Users\lamer\RiderProjects\PSRGame\RPSGame\bin\Debug\net8.0\RPSGame.exe
+C:\Users\lamer\RiderProjects\PSRGame\RPSGame\bin\Debug\net8.0\RPSGame.deps.json
+C:\Users\lamer\RiderProjects\PSRGame\RPSGame\bin\Debug\net8.0\RPSGame.runtimeconfig.json
+C:\Users\lamer\RiderProjects\PSRGame\RPSGame\bin\Debug\net8.0\RPSGame.dll
+C:\Users\lamer\RiderProjects\PSRGame\RPSGame\bin\Debug\net8.0\RPSGame.pdb
+C:\Users\lamer\RiderProjects\PSRGame\RPSGame\obj\Debug\net8.0\RPSGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lamer\RiderProjects\PSRGame\RPSGame\obj\Debug\net8.0\RPSGame.AssemblyInfoInputs.cache
+C:\Users\lamer\RiderProjects\PSRGame\RPSGame\obj\Debug\net8.0\RPSGame.AssemblyInfo.cs
+C:\Users\lamer\RiderProjects\PSRGame\RPSGame\obj\Debug\net8.0\RPSGame.csproj.CoreCompileInputs.cache
+C:\Users\lamer\RiderProjects\PSRGame\RPSGame\obj\Debug\net8.0\RPSGame.dll
+C:\Users\lamer\RiderProjects\PSRGame\RPSGame\obj\Debug\net8.0\refint\RPSGame.dll
+C:\Users\lamer\RiderProjects\PSRGame\RPSGame\obj\Debug\net8.0\RPSGame.pdb
+C:\Users\lamer\RiderProjects\PSRGame\RPSGame\obj\Debug\net8.0\RPSGame.genruntimeconfig.cache
+C:\Users\lamer\RiderProjects\PSRGame\RPSGame\obj\Debug\net8.0\ref\RPSGame.dll
