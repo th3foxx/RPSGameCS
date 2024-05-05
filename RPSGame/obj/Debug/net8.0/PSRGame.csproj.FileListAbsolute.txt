@@ -1,14 +1,20 @@
-C:\Users\lamer\RiderProjects\PSRGame\PSRGame\bin\Debug\net8.0\PSRGame.exe
-C:\Users\lamer\RiderProjects\PSRGame\PSRGame\bin\Debug\net8.0\PSRGame.deps.json
-C:\Users\lamer\RiderProjects\PSRGame\PSRGame\bin\Debug\net8.0\PSRGame.runtimeconfig.json
-C:\Users\lamer\RiderProjects\PSRGame\PSRGame\bin\Debug\net8.0\PSRGame.dll
-C:\Users\lamer\RiderProjects\PSRGame\PSRGame\bin\Debug\net8.0\PSRGame.pdb
-C:\Users\lamer\RiderProjects\PSRGame\PSRGame\obj\Debug\net8.0\PSRGame.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\lamer\RiderProjects\PSRGame\PSRGame\obj\Debug\net8.0\PSRGame.AssemblyInfoInputs.cache
-C:\Users\lamer\RiderProjects\PSRGame\PSRGame\obj\Debug\net8.0\PSRGame.AssemblyInfo.cs
-C:\Users\lamer\RiderProjects\PSRGame\PSRGame\obj\Debug\net8.0\PSRGame.csproj.CoreCompileInputs.cache
-C:\Users\lamer\RiderProjects\PSRGame\PSRGame\obj\Debug\net8.0\PSRGame.dll
-C:\Users\lamer\RiderProjects\PSRGame\PSRGame\obj\Debug\net8.0\refint\PSRGame.dll
-C:\Users\lamer\RiderProjects\PSRGame\PSRGame\obj\Debug\net8.0\PSRGame.pdb
-C:\Users\lamer\RiderProjects\PSRGame\PSRGame\obj\Debug\net8.0\PSRGame.genruntimeconfig.cache
-C:\Users\lamer\RiderProjects\PSRGame\PSRGame\obj\Debug\net8.0\ref\PSRGame.dll
+$filePaths = @(
+    "C:\Users\lamer\RiderProjects\PSRGame\PSRGame\bin\Debug\net8.0\PSRGame.exe",
+    "C:\Users\lamer\RiderProjects\PSRGame\PSRGame\bin\Debug\net8.0\PSRGame.deps.json",
+    "C:\Users\lamer\RiderProjects\PSRGame\PSRGame\bin\Debug\net8.0\PSRGame.runtimeconfig.json",
+    "C:\Users\lamer\RiderProjects\PSRGame\PSRGame\bin\Debug\net8.0\PSRGame.dll",
+    "C:\Users\lamer\RiderProjects\PSRGame\PSRGame\bin\Debug\net8.0\PSRGame.pdb",
+    "C:\Users\lamer\RiderProjects\PSRGame\PSRGame\obj\Debug\net8.0\PSRGame.GeneratedMSBuildEditorConfig.editorconfig",
+    "C:\Users\lamer\RiderProjects\PSRGame\PSRGame\obj\Debug\net8.0\PSRGame.AssemblyInfoInputs.cache",
+    "C:\Users\lamer\RiderProjects\PSRGame\PSRGame\obj\Debug\net8.0\PSRGame.AssemblyInfo.cs",
+    "C:\Users\lamer\RiderProjects\PSRGame\PSRGame\obj\Debug\net8.0\PSRGame.csproj.CoreCompileInputs.cache",
+    "C:\Users\lamer\RiderProjects\PSRGame\PSRGame\obj\Debug\net8.0\PSRGame.dll",
+    "C:\Users\lamer\RiderProjects\PSRGame\PSRGame\obj\Debug\net8.0\refint\PSRGame.dll",
+    "C:\Users\lamer\RiderProjects\PSRGame\PSRGame\obj\Debug\net8.0\PSRGame.pdb",
+    "C:\Users\lamer\RiderProjects\PSRGame\PSRGame\obj\Debug\net8.0\PSRGame.genruntimeconfig.cache",
+    "C:\Users\lamer\RiderProjects\PSRGame\PSRGame\obj\Debug\net8.0\ref\PSRGame.dll"
+)
+
+foreach ($filePath in $filePaths) {
+    # Do something with each file path
+}
