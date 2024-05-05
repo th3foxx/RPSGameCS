@@ -1,25 +1,24 @@
-﻿namespace RPSGame;
+using System;
 
-public static class Player
+namespace RPSGame
 {
-    public static int MakeChoice()
+    public static class Player
     {
-        while (true)
+        public static int MakeChoice()
         {
-            var success = int.TryParse(Console.ReadLine(), out int playerChoice);
+            while (true)
+            {
+                Console.Write("Enter your choice (1: Rock, 2: Paper, 3: Scissors): ");
 
-            if (success && playerChoice < 4)
-            {
-                return playerChoice;
+                if (int.TryParse(Console.ReadLine(), out int playerChoice) && playerChoice > 0 && playerChoice < 4)
+                {
+                    return playerChoice;
+                }
+                else
+                {
+                    Console.WriteLine("Invalid input. Please enter a valid choice.");
+                }
             }
-            else
-            {
-                Console.WriteLine("You have entered an invalid value!");
-                Console.Write("Try again: ");
-            }
-            
         }
-        
     }
-    
 }
