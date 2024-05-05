@@ -8,15 +8,13 @@
 //------------------------------------------------------------------------------
 
 using System;
-using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("PSRGame")]
-[assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
-[assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
-[assembly: System.Reflection.AssemblyProductAttribute("PSRGame")]
-[assembly: System.Reflection.AssemblyTitleAttribute("PSRGame")]
-[assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
+[assembly: AssemblyCompanyAttribute("PSR Game Development Team")]
+[assembly: AssemblyConfigurationAttribute("Debug Build")]
+[assembly: AssemblyFileVersionAttribute("1.0.0.0")]
+[assembly: AssemblyInformationalVersionAttribute("1.0.0-beta")]
+[assembly: AssemblyProductAttribute("PSRGame")]
+[assembly: AssemblyTitleAttribute("PSRGame Application")]
+[assembly: AssemblyVersionAttribute("1.0.0.0")]
 
-// Создано классом WriteCodeFragment MSBuild.
-
+// Created by the WriteCodeFragment MSBuild task.
