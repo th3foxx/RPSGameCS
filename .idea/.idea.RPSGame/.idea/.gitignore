@@ -1,13 +1,20 @@
-﻿# Default ignored files
-/shelf/
-/workspace.xml
+# Common ignored files and directories
+.idea/
+.git/
+.DS_Store
 # Rider ignored files
-/.idea.PSRGame.iml
-/modules.xml
-/contentModel.xml
-/projectSettingsUpdater.xml
+.idea/.DS_Store
+.idea/.gitignore
+.idea/inspectionProfiles/
+.idea/shelf/
+.idea/workspace.xml
 # Editor-based HTTP Client requests
-/httpRequests/
+httpRequests/
 # Datasource local storage ignored files
-/dataSources/
-/dataSources.local.xml
+dataSources/
+dataSources.local.xml
+# Operating system temporary files
+thumbs.db
+.Trashes
+# User-specific files
+*.sublime-workspace
